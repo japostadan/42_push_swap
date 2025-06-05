@@ -13,6 +13,7 @@
         "vscodevim.vim"
       ],
       "settings": {
+        "git.autofetch": true,
         "terminal.integrated.defaultProfile.linux": "zsh"
       }
     }
